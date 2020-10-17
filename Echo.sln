@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Echo", "Echo\Echo.csproj", "{5FD18984-2E2A-452B-B391-E0C9036ACBAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoTests", "EchoTests\EchoTests.csproj", "{ED1EC9B7-CDBA-4E9C-B1FB-C7B03D106C14}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4E4120A3-630C-4025-8781-A818CC591A18}"
+	ProjectSection(SolutionItems) = preProject
+		LIICENSE.txt = LIICENSE.txt
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FD18984-2E2A-452B-B391-E0C9036ACBAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD18984-2E2A-452B-B391-E0C9036ACBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD18984-2E2A-452B-B391-E0C9036ACBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD18984-2E2A-452B-B391-E0C9036ACBAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED1EC9B7-CDBA-4E9C-B1FB-C7B03D106C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED1EC9B7-CDBA-4E9C-B1FB-C7B03D106C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED1EC9B7-CDBA-4E9C-B1FB-C7B03D106C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED1EC9B7-CDBA-4E9C-B1FB-C7B03D106C14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82BF569D-B721-4472-B109-524A2C3DFC52}
+	EndGlobalSection
+EndGlobal
